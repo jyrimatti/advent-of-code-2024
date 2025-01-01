@@ -12,3 +12,7 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.calva
+.clj-kondo
+.lsp
+advent-of-code-2024.code-workspace
